@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyTestProject</string>
+    <string name="download">Загрузить</string>
+    <string name="input_number">Введите количество цифр</string>
+    <string name="enter_the_number">Введите число чтобы загрузить фотографии</string>
+    <string name="next_activity">next Activity</string>
+</resources>
